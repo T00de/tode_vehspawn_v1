@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Tode'
+author 'jaki__'
 description 'Vehicle Spawner'
 version '1.0.0'
 
